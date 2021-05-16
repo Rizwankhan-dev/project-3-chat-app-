@@ -1,0 +1,327 @@
+body{
+  background-color: #FAFAFA;
+  font-family: 'Rubik', sans-serif;
+}
+
+.entire{
+
+  height: 1000px;
+  background-color: #FAFAFA;
+}
+
+.mobile{
+  background-color: white;
+  width: 25%;
+  position: relative;
+  margin-left: 300px;
+  height: 665px;
+  border-radius: 40px;
+  bottom: 800px;
+
+}
+
+.outline{
+  position: absolute;
+  bottom: 8px;
+  margin-left: 8px;
+  width: 95%;
+  height: 650px;
+  background-color: #F5F3F8;
+  border-radius: 30px;
+}
+.illustration{
+  background-color: #A33CFF;
+  height: 900px;
+  width: 400px;
+  position: relative;
+bottom: 20px;
+  right: 50px;
+  border-radius: 0 0 200px 200px;
+}
+
+
+
+.top{
+  width: 95%;
+  background: linear-gradient(0.25turn, #883CFF, #E145FF);
+  border-radius: 30px 30px 10px 10px;
+  position: absolute;
+  top: 8px;
+left: 8px;
+
+}
+
+h3{
+  margin-top: 40px;
+  margin-bottom: 0px;
+  font-size: 12px;
+}
+.top p {
+  margin-top: 5px;
+  font-size: 8px;
+  margin-bottom: 20px;
+
+}
+.av{
+  margin-left: 85px;
+  color: white;
+
+}
+
+.walk{
+  margin-left: 85px;
+  color: hsl(276, 100%, 81%);
+}
+.avatar{
+  border-radius: 100%;
+  height: 30px;
+  width: 30px;
+color: white;
+  border: solid 2px;
+  float: left;
+  position: absolute;
+  left: 40px;
+  bottom: 15px;
+
+}
+
+
+.sound{
+position: absolute;
+top: 100px;
+left: 15px;
+  width: 40%;
+  background-color: #EDE5F2;
+
+  border-radius: 15px 15px 15px 6px;
+  font-size: 10px;
+  padding: 10px;
+  color: hsl(276, 55%, 52%);
+}
+
+img{
+  border-radius: 15px;
+  width: 55px;
+  height: 55px;
+
+
+}
+
+.dfirst{
+position: absolute;
+right: 150px;
+top: 225px;
+margin-left: 5px;
+}
+
+.dsec{
+  position: absolute;
+  right: 85px;
+  top: 225px;
+  margin-left: 5px;
+}
+
+.dthird{
+  position: absolute;
+  right: 20px;
+  top: 225px;
+
+}
+.could{
+  position: absolute;
+  top: 155px;
+  left: 15px;
+    width: 40%;
+    background-color: #EDE5F2;
+    border-radius: 15px 15px 15px 6px;
+    font-size: 10px;
+    padding: 10px;
+    color: hsl(276, 55%, 52%);
+}
+
+.few{
+  position: absolute;
+  right: 20px;
+  top: 280px;
+  width: 40%;
+  background-color: white;
+  border-radius: 15px;
+  font-size: 10px;
+  padding: 10px;
+  color: hsl(271, 15%, 43%);
+
+}
+
+.para .few{
+  border-radius: 15px 15px 6px 15px;
+}
+.can{
+  position: absolute;
+  right: 20px;
+  top: 335px;
+  background-color: white;
+    width: 40%;
+    background-color: white;
+    border-radius: 15px;
+    font-size: 10px;
+    padding: 10px;
+    color: hsl(271, 15%, 43%);
+}
+
+
+.para .can{
+  border-radius: 15px 15px 6px 15px;
+}
+.looks{
+  position: absolute;
+  top: 390px;
+  left: 15px;
+    width: 40%;
+    background-color: #EDE5F2;
+    border-radius: 15px 15px 15px 6px;
+    font-size: 10px;
+    padding: 10px;
+    color: hsl(276, 55%, 52%);
+}
+
+.hour{
+  position: absolute;
+  top: 512px;
+  left: 15px;
+  width: 50%;
+    background: linear-gradient(0.25turn, #E145FF, #883CFF);
+  border-radius: 15px 15px 15px 6px;
+  font-size: 10px;
+  padding: 10px 10px 10px 35px;
+  color: white;
+margin-right: 20px;
+}
+
+
+
+.min{
+  position: absolute;
+  top: 457px;
+  left: 15px;
+  width: 50%;
+  background: linear-gradient(0.25turn, #E145FF, #883CFF);
+  border-radius: 15px 15px 15px 6px;
+  font-size: 10px;
+  padding: 10px 10px 10px 35px;
+  color: white;
+
+}
+
+.placeholder{
+  width: 80%;
+  position: absolute;
+  top: 590px;
+  border-radius: 25px;
+  padding: 20px 15px 15px 20px;
+  left: 15px;
+  border-style: none;
+}
+
+.text{
+  width: 35%;
+  font-size: 16px;
+  line-height: 1.5;
+  color: hsl(270, 7%, 64%);
+  position: absolute;
+  right: 130px;
+  top: 280px;
+  z-index: 1;
+
+}
+
+h1{
+  color: hsl(271, 36%, 24%);
+}
+
+.circle{
+  position: absolute;
+  bottom: 30px;
+  right:25px;
+  height: 40px;
+  width: 40px;
+  border-radius: 25px;
+  background-color: hsl(271, 36%, 24%);
+  color: white;
+  font-size: 20px;
+  font-weight: bold;
+  border-style: none;
+}
+
+.white{
+  height: 30px;
+  width: 55%;
+  background-color: white;
+  position: absolute;
+  left: 75px;
+  border-radius: 20px;
+  bottom: 66px;
+}
+
+.doll{
+  font-size: 20px;
+  margin-left: 45px;
+  margin-top: 0px;
+  font-weight: bold;
+}
+
+.dollar{
+
+  font-size: 20px;
+  margin-left: 65px;
+  margin-top: 0px;
+  font-weight: bold;
+}
+
+.circle-one{
+  height: 15px;
+  width: 15px;
+  border-radius: 20px;
+  color: hsl(276, 100%, 81%);
+  background-color: transparent;
+  position: absolute;
+  bottom: 164px;
+  left: 25px;
+  border: solid 2px;
+}
+
+.circle-two{
+  height: 15px;
+  width: 15px;
+  border-radius: 20px;
+  color: hsl(276, 100%, 81%);
+  background-color: transparent;
+  position: absolute;
+  bottom: 110px;
+  left: 25px;
+  border: solid 2px;
+}
+
+.illustration-two{
+  background-color: #F9F4FA;
+  height: 900px;
+  width: 300px;
+  position: relative;
+bottom: 0px;
+  left: 750px;
+  border-radius: 200px 200px 0 0;
+  z-index: auto;
+}
+
+.bracket{
+width: 10%;
+height: 20px;
+  color: white;
+  position: absolute;
+  left: 20px;
+  top: 40px;
+
+}
+.top .bracket{
+  font-size: 20px;
+  font-weight:
+}
